@@ -1,0 +1,11 @@
+E:\Nix\NixGit\Lesson2\Lesson2\bin\Debug\netcoreapp2.1\Lesson2.deps.json
+E:\Nix\NixGit\Lesson2\Lesson2\bin\Debug\netcoreapp2.1\Lesson2.runtimeconfig.json
+E:\Nix\NixGit\Lesson2\Lesson2\bin\Debug\netcoreapp2.1\Lesson2.runtimeconfig.dev.json
+E:\Nix\NixGit\Lesson2\Lesson2\bin\Debug\netcoreapp2.1\Lesson2.dll
+E:\Nix\NixGit\Lesson2\Lesson2\bin\Debug\netcoreapp2.1\Lesson2.pdb
+E:\Nix\NixGit\Lesson2\Lesson2\obj\Debug\netcoreapp2.1\Lesson2.csprojAssemblyReference.cache
+E:\Nix\NixGit\Lesson2\Lesson2\obj\Debug\netcoreapp2.1\Lesson2.csproj.CoreCompileInputs.cache
+E:\Nix\NixGit\Lesson2\Lesson2\obj\Debug\netcoreapp2.1\Lesson2.AssemblyInfoInputs.cache
+E:\Nix\NixGit\Lesson2\Lesson2\obj\Debug\netcoreapp2.1\Lesson2.AssemblyInfo.cs
+E:\Nix\NixGit\Lesson2\Lesson2\obj\Debug\netcoreapp2.1\Lesson2.dll
+E:\Nix\NixGit\Lesson2\Lesson2\obj\Debug\netcoreapp2.1\Lesson2.pdb
