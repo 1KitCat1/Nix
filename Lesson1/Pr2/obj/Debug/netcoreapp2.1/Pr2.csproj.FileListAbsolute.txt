@@ -1,0 +1,14 @@
+E:\Nix\Lesson1\Pr2\obj\Debug\netcoreapp2.1\Pr2.csprojAssemblyReference.cache
+E:\Nix\Lesson1\Pr2\obj\Debug\netcoreapp2.1\Pr2.csproj.CoreCompileInputs.cache
+E:\Nix\Lesson1\Pr2\obj\Debug\netcoreapp2.1\Pr2.AssemblyInfoInputs.cache
+E:\Nix\Lesson1\Pr2\obj\Debug\netcoreapp2.1\Pr2.AssemblyInfo.cs
+E:\Nix\Lesson1\Pr2\bin\Debug\netcoreapp2.1\Pr2.deps.json
+E:\Nix\Lesson1\Pr2\bin\Debug\netcoreapp2.1\Pr2.runtimeconfig.json
+E:\Nix\Lesson1\Pr2\bin\Debug\netcoreapp2.1\Pr2.runtimeconfig.dev.json
+E:\Nix\Lesson1\Pr2\bin\Debug\netcoreapp2.1\Pr2.dll
+E:\Nix\Lesson1\Pr2\bin\Debug\netcoreapp2.1\Pr2.pdb
+E:\Nix\Lesson1\Pr2\bin\Debug\netcoreapp2.1\Lesson1.dll
+E:\Nix\Lesson1\Pr2\bin\Debug\netcoreapp2.1\Lesson1.pdb
+E:\Nix\Lesson1\Pr2\obj\Debug\netcoreapp2.1\Pr2.csproj.CopyComplete
+E:\Nix\Lesson1\Pr2\obj\Debug\netcoreapp2.1\Pr2.dll
+E:\Nix\Lesson1\Pr2\obj\Debug\netcoreapp2.1\Pr2.pdb
