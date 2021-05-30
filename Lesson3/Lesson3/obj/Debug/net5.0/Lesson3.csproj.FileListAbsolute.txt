@@ -1,0 +1,16 @@
+E:\Nix\NixGit\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.exe
+E:\Nix\NixGit\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.deps.json
+E:\Nix\NixGit\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.runtimeconfig.json
+E:\Nix\NixGit\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.runtimeconfig.dev.json
+E:\Nix\NixGit\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.dll
+E:\Nix\NixGit\Lesson3\Lesson3\bin\Debug\net5.0\ref\Lesson3.dll
+E:\Nix\NixGit\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.pdb
+E:\Nix\NixGit\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.csprojAssemblyReference.cache
+E:\Nix\NixGit\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nix\NixGit\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.AssemblyInfoInputs.cache
+E:\Nix\NixGit\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.AssemblyInfo.cs
+E:\Nix\NixGit\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.csproj.CoreCompileInputs.cache
+E:\Nix\NixGit\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.dll
+E:\Nix\NixGit\Lesson3\Lesson3\obj\Debug\net5.0\ref\Lesson3.dll
+E:\Nix\NixGit\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.pdb
+E:\Nix\NixGit\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.genruntimeconfig.cache
