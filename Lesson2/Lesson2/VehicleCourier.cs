@@ -4,7 +4,14 @@ using System.Text;
 
 namespace Lesson2
 {
-    class BikeCourier
+    class VehicleCourier : Courier
     {
+        private bool isVehicleRented;
+        private string vehicleStatus;
+
+        public VehicleCourier(string id, string name) : base(id, name)
+        {
+
+        }
     }
 }

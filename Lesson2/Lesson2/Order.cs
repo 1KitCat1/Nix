@@ -9,8 +9,9 @@ namespace Lesson2
         public List<Product> ProductList;
         public Shop Shop;
         public Courier Courier;
-        public float Price;
-        public float Commision;
+        public float Price { get; protected set; }
+        public float Commision { get; protected set; }
+        public string Status { get; protected set; }
 
         public Order(List<Product> productList, Shop shop, Courier courier)
         {

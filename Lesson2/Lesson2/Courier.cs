@@ -8,17 +8,26 @@ namespace Lesson2
     {
         public string ID { get; protected set; }
         public bool IsBusy { get; protected set; }
-        private string Name;
-        private float Balance;
+        public bool IsOnLine { get; protected set; }
+        public string Position { get; protected set; }
+        private float range;
+        private string name;
+        private float balance;
+        
+        
 
         public Courier(string id, string name)
         {
             ID = id;
-            Name = name;
+            this.name = name;
         }
         public Courier(string id, string name, float balance) : this (id, name)
         {
-            Balance = balance;
+            this.balance = balance;
+        }
+        public Courier(string id, string name, float balance, string position) : this ( id, name, balance)
+        {
+            Position = position;
         }
         
     }
