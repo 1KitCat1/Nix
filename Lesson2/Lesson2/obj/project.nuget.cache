@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RkDoka7eSrpamGmIjhEmx7wa5MiHAVBUaEVBX+cwyLw9w/095lGvXmutdcS+AbP/IbVILT1X0wT4bCU3YTzCnQ==",
+  "dgSpecHash": "RiGzB90jEyEYqaMg56+ESA9hSbcXSaCO7nkKGvETOeOMfW/Pvs7Cu2C4wVcGXPbg99aC2bKBfFpxStZz2BGItg==",
   "success": true,
   "projectFilePath": "E:\\Nix\\NixGit\\Lesson2\\Lesson2\\Lesson2.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DenCHik\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",

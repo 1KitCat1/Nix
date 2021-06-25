@@ -1,0 +1,16 @@
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\bin\Debug\net5.0\LessonLINQ.exe
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\bin\Debug\net5.0\LessonLINQ.deps.json
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\bin\Debug\net5.0\LessonLINQ.runtimeconfig.json
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\bin\Debug\net5.0\LessonLINQ.runtimeconfig.dev.json
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\bin\Debug\net5.0\LessonLINQ.dll
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\bin\Debug\net5.0\ref\LessonLINQ.dll
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\bin\Debug\net5.0\LessonLINQ.pdb
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\obj\Debug\net5.0\LessonLINQ.csprojAssemblyReference.cache
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\obj\Debug\net5.0\LessonLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\obj\Debug\net5.0\LessonLINQ.AssemblyInfoInputs.cache
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\obj\Debug\net5.0\LessonLINQ.AssemblyInfo.cs
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\obj\Debug\net5.0\LessonLINQ.csproj.CoreCompileInputs.cache
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\obj\Debug\net5.0\LessonLINQ.dll
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\obj\Debug\net5.0\ref\LessonLINQ.dll
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\obj\Debug\net5.0\LessonLINQ.pdb
+E:\Nix\NixGit\LessonLINQ\LessonLINQ\obj\Debug\net5.0\LessonLINQ.genruntimeconfig.cache
