@@ -1,0 +1,29 @@
+.main-text{
+    font-size: 38px;
+    font-family: Impact;
+    font-style: italic;
+    color: dimgray;
+    text-align: center;
+    margin-top: 2%;
+}
+.carousel-item{
+    max-height: 400px;
+}
+
+.carousel-item img{
+    max-height: 400px;
+    object-fit:cover;
+}
+.button-text{
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 600;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.footer-text{
+    color: bisque;
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+}
