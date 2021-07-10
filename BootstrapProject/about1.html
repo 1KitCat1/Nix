@@ -24,10 +24,10 @@
                         <a href="index.html" class="nav-link">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="about1.html" class="nav-link">About us</a>
+                        <a href="" class="nav-link active">About us</a>
                     </li>
                     <li class="nav-item">
-                        <a href="registration.html" class="nav-link active">Registration</a>
+                        <a href="registration.html" class="nav-link">Registration</a>
                     </li>
                 </ul>
                 <form action="" class="d-flex">
@@ -40,33 +40,37 @@
         <!-- End NAVBAR -->
     </nav>
 
-    <main class="bg-dark">
+    <main>
         <div class="container" style="height: 100vh;">
-            <form class="col-md-4" id="registrationForm">
-                <div class="form-group">
-                    <label class="control-label white-text" for="email">Email</label>
-                    <div class="md-4">
-                        <input type="text" class="form-control" id="email" name="email" placeholder="Email" />
-                    </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="img/img4.jpg" class="img-fluid" alt="">
                 </div>
-                <div class="form-group">
-                    <label class="control-label white-text" for="name">Name</label>
-                    <div>
-                        <input type="text" class="form-control" id="name" name="name" placeholder="Name" />
-                    </div>
+                <div class="col-md-6">
+                    <p class="black-text">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem ab illum ipsa ut, quidem voluptates impedit id tempora magni ex! Animi, qui dolores? Eligendi neque quas facilis, aliquid sit quod.
+                    </p>
                 </div>
-                <div class="form-group">
-                    <label class="control-label white-text" for="password">Password</label>
-                    <div>
-                        <input type="password" class="form-control" id="password" name="password" placeholder="Password" />
-                    </div>
+            </div>
+            <div class="row">
+                <div style="margin-top: 2%;">
+                    <nav aria-label="Pagination">
+                        <ul class="pagination">
+                          <li class="page-item disabled">
+                            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+                          </li>
+                          <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                          <li class="page-item " aria-current="page">
+                            <a class="page-link" href="about2.html">2</a>
+                          </li>
+                          <li class="page-item disabled"><a class="page-link" href="#">3</a></li>
+                          <li class="page-item">
+                            <a class="page-link" href="about2.html">Next</a>
+                          </li>
+                        </ul>
+                      </nav>
                 </div>
-                <div class="form-group">
-                    <div>
-                        <button  type="button" class="btn btn-warning black-text" style="margin-top: 10px;" onclick="checkReg()">Register</button>
-                    </div>
-                </div>
-            </form>
+            </div>
 
         </div>
     </main>    
